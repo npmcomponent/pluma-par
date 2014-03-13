@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [pluma/par](http://github.com/pluma/par). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/pluma-par`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # Synopsis
 
 **par** is a JavaScript implementation of partial function application (sometimes incorrectly called "currying").
